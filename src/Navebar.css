@@ -1,0 +1,33 @@
+
+
+
+
+
+.right{
+    float: right;
+    color: black;
+    text-decoration: none;
+
+}
+
+.Navebar Button{
+    color: black;
+    text-decoration: none;
+    
+}
+
+.Button:active {
+    color: rgb(175, 7, 7);
+}
+.right:active{
+    color: rgb(175, 7, 7);
+}
+.Button:hover {
+    color: black;
+    
+}
+.right:hover{
+    color: black;
+}
+
+

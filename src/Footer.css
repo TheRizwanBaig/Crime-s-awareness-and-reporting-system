@@ -1,0 +1,22 @@
+.Footercss{
+        background-color: rgb(0, 0, 0);
+        color: rgb(175, 7, 7);
+        clear: both;
+        text-align: center;
+        font-weight: bold ;
+        padding-bottom: 8px;
+        margin-top: auto;
+
+}
+.Footercss a:hover{ 
+        color: white ;
+        text-decoration: none;
+        font-size: larger;
+}
+.Footercss a:visited {
+        color: rgb(66, 66, 255);
+      }
+.Footercss a:link {
+        font-size: medium;
+}
+
